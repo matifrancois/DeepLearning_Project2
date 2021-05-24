@@ -1,0 +1,9 @@
+☐ Variar epochs. Chequear.
+☐ Cambiar batch size a 64.
+☐ Agregar early stop
+☐ Agregar regularizadores
+    ☐ L1
+    ☐ L2
+    ☐ Varias betas
+☐ Limpiar dataset
+
