@@ -7,3 +7,10 @@
     ☐ Varias betas
 ☐ Limpiar dataset
 
+
+☐ Eliminar Outliers
+☐ Reeemplazar outliers por la mediana
+☐ Eliminar columnas
+☐ Reemplazar Nulos con mediana
+
+☐ Hacer k folding
