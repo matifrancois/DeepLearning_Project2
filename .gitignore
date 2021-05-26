@@ -1,0 +1,3 @@
+#To ignore the virtual enviroment
+env/*
+Ej1/my_dir/*
