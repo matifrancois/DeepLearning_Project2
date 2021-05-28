@@ -1,1 +1,5 @@
 ☐ cuando considerar y cuando no los boxplots? 
+☐ nulos remplazamos por mediana siempre? o podemos borrar las filas con nulos => si hacemos eso que hacer cuando el usuario nos ingresa un nulo.
+☐ si sabemos que no tenemos overfitting entonces tenemos que hacer drop out y regularizacion?
+☐ sabemos que no hay overfitting si las curvas de valid y train dan bien?
+☐ tensorboard si o si con todos los casos o no? porque se hace muy lento con tensorboard
