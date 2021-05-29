@@ -1,1 +1,10 @@
-☐ cuando considerar y cuando no los boxplots? 
+✔ cuando considerar y cuando no los boxplots? @done(21-05-28 21:21)
+para contestar despues lo podes considerar un hiperparametro, entiendo que forma parte de las cosas que son mas o menos.
+✔ nulos remplazamos por mediana siempre? o podemos borrar las filas con nulos => si hacemos eso que hacer cuando el usuario nos ingresa un nulo. @done(21-05-28 21:21)
+=> No permitis que se ingresen valores nulos, le decis que no son permitidos.
+✔ si sabemos que no tenemos overfitting entonces tenemos que hacer drop out y regularizacion? @done(21-05-28 21:21)
+=> asumo que no
+✔ sabemos que no hay overfitting si las curvas de valid y train dan bien? @done(21-05-28 21:21)
+=> asumo que si
+✔ tensorboard si o si con todos los casos o no? porque se hace muy lento con tensorboard @done(21-05-28 21:21)
+=> asumo que ahora sin tuner va a ser mas simple.
