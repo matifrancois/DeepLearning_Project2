@@ -4,3 +4,16 @@
 4) Explicar por que no usariamos drop out (1 sola neurona) 
 5) Explicar por que no usariamos regularizacion (no hay overfitting)
 6) Explicar por que no usariamos batch normalization (porque al tener una sola neurona no tiene sentido usarlo)
+
+
+Parte 1:
+
+☐ terminar el testeo del 1
+
+☐ Rehacer el 1 con 1 sola neurona
+
+☐ Poner tensorboard
+
+Parte 2:
+
+☐ Hacer que funcione con features polinomiales
