@@ -12,6 +12,10 @@ Parte 1:
 
 ☐ Rehacer el 1 con 1 sola neurona
 
+☐ Comprobar si mejora sacando los outliers
+
+☐ ver si podemos sacar algo de info de que depende mucho del cigarrillo que por ahora no lo tenemos tan en cuenta
+
 ☐ Poner tensorboard
 
 Parte 2:
