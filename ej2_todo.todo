@@ -1,0 +1,6 @@
+1) epochs
+2) learning rate
+3) Explicar que como no hay overfitting entonces usar early stopping es al pedo
+4) Explicar por que no usariamos drop out (1 sola neurona) 
+5) Explicar por que no usariamos regularizacion (no hay overfitting)
+6) Explicar por que no usariamos batch normalization (porque al tener una sola neurona no tiene sentido usarlo)
