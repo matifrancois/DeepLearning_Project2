@@ -1,3 +1,4 @@
 #To ignore the virtual enviroment
 env/
 Ej1/saved_models/
+Ej1/logs/
