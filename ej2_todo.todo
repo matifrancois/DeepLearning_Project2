@@ -10,14 +10,24 @@ Parte 1:
 
 ☐ terminar el testeo del 1
 
-☐ Rehacer el 1 con 1 sola neurona
+✔ Rehacer el 1 con 1 sola neurona @done(21-05-30 22:43)
 
 ☐ Comprobar si mejora sacando los outliers
 
-☐ ver si podemos sacar algo de info de que depende mucho del cigarrillo que por ahora no lo tenemos tan en cuenta
+✔ Poner tensorboard @done(21-05-30 22:44)
 
-☐ Poner tensorboard
+
 
 Parte 2:
 
-☐ Hacer que funcione con features polinomiales
+☐ Hacer que funcione mejor con features polinomiales
+
+Parte 3: 
+
+☐ Buscar mas casos y ver si mejora para alguno
+
+
+
+Mañana:
+
+☐ Checkear tensorboard
